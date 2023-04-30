@@ -1,2 +1,1 @@
-# new-project
-REPO for DEVOPS course
+it's readme for devops course on prometheus
